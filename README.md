@@ -90,6 +90,3 @@ All thanks goes to these packages that made role-based authentication possible.\
 [consola](https://www.npmjs.com/package/consola): Elegant Console Logger for Node.js\
 [bcryptjs](https://www.npmjs.com/package/bcryptjs): Password encryption and decription library\
 
-## License
-
-Permission is hereby granted to any person to use and edit the code.
